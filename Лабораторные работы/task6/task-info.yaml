@@ -1,0 +1,24 @@
+type: output
+files:
+- name: main.py
+  visible: true
+  text: |
+    list_numbers = [2, -93, -2, 8, -36, -44, -1, -85, -14, 90, -22, -90, -100, -8, 38, -92, -45, 67, 53, 25]
+
+    # TODO Оформить решение
+
+    print(list_numbers)
+  learner_created: false
+- name: __init__.py
+  visible: false
+  learner_created: false
+- name: tests/output.txt
+  visible: false
+  text: |
+    [2, -93, -2, 8, -36, -44, -1, -85, -14, 25, -22, -90, -100, -8, 38, -92, -45, 67, 53, 90]
+  learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Sat, 22 Oct 2022 15:10:21 UTC
+record: -1
